@@ -39,4 +39,4 @@ for file in *; do
     fi
 done
 
-echo "Files organized successfully."
+echo "Files organised successfully."
